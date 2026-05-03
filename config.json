@@ -11,7 +11,7 @@
     "allow_save_book_in_storage": true,
     "swipe_horizontal_reading_book": false,
     "show_scroll_handle_reading_book": false,
-    "custom_label_list": true
+    "custom_label_list": false
   },
   "url": {
     "more_apps_url": "https://play.google.com/store/apps/dev?id=6124386641225782503",

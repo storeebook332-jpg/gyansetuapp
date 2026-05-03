@@ -1,0 +1,62 @@
+{
+  "blog": {
+    "id": "1",
+    "blogger_id": "7835729516896656421",
+    "api_key": "AIzaSyBGipnQHpKTmaWM4BP9BK1aKvoxxY9k1Us"
+  },
+  "app": {
+    "status": true,
+    "show_book_detail_view": true,
+    "show_related_book": true,
+    "allow_save_book_in_storage": true,
+    "swipe_horizontal_reading_book": false,
+    "show_scroll_handle_reading_book": false,
+    "custom_label_list": true
+  },
+  "url": {
+    "more_apps_url": "https://play.google.com/store/apps/dev?id=6124386641225782503",
+    "privacy_policy_url": "https://yoursite.com/privacy-policy",
+    "redirect_url": ""
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "interstitial_ad_interval": 3,
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_id": "ca-app-pub-3940256099942544/3419835294",
+    "ad_manager_banner_id": "",
+    "ad_manager_interstitial_id": "",
+    "ad_manager_native_id": "",
+    "ad_manager_app_open_id": "",
+    "fan_banner_id": "",
+    "fan_interstitial_id": "",
+    "fan_native_id": "",
+    "startapp_app_id": "",
+    "unity_game_id": "",
+    "unity_banner_id": "",
+    "unity_interstitial_id": "",
+    "applovin_max_banner_id": "",
+    "applovin_max_interstitial_id": "",
+    "applovin_max_native_manual_id": "",
+    "applovin_max_app_open_id": "",
+    "applovin_discovery_banner_zone_id": "",
+    "applovin_discovery_banner_mrec_zone_id": "",
+    "applovin_discovery_interstitial_zone_id": "",
+    "ironsource_app_key": "",
+    "ironsource_banner_id": "",
+    "ironsource_interstitial_id": ""
+  },
+  "labels": [
+    {
+      "term": "Category_Name_1",
+      "image": "https://link_to_image_1.png"
+    },
+    {
+      "term": "Category_Name_2",
+      "image": "https://link_to_image_2.png"
+    }
+  ]
+}

@@ -3,13 +3,13 @@
     "id": "1",
     "blogger_id": "7835729516896656421",
     "api_key": "AIzaSyBGipnQHpKTmaWM4BP9BK1aKvoxxY9k1Us"
-  },
-  "app": {
+  },
+  "app": {
     "status": true,
     "show_book_detail_view": true,
     "show_related_book": true,
     "allow_save_book_in_storage": true,
-    "swipe_horizontal_reading_book": true, 
+    "swipe_horizontal_reading_book": true,
     "show_scroll_handle_reading_book": true,
     "custom_label_list": false
   },
@@ -51,12 +51,12 @@
   },
   "labels": [
     {
-      "term": "Category_Name_1",
-      "image": "https://link_to_image_1.png"
+      "term": "business",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordbook/category/Business%20%26%20investing.png"
     },
     {
-      "term": "Category_Name_2",
-      "image": "https://link_to_image_2.png"
+      "term": "Education",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordbook/category/Education.png"
     }
   ]
 }
